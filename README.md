@@ -27,7 +27,7 @@ apt install git
 cd /root
 ```
 ```bash
-git clone https://github.com/cleitonme/Whazing-SaaS.instalador.git install
+git clone https://github.com/sergioweverton18/whaticketsaasFBinstall.git install
 ```
 ```bash
 sudo chmod +x ./install/whaticketsaas
